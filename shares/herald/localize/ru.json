@@ -1,0 +1,18 @@
+[
+  {"ifi": 1, "text": "Сообщение", "bigText": false},
+  {"ifi": 2, "text": "Ящик", "bigText": false},
+  {"ifi": 3, "text": "Предложение", "bigText": false},
+  {"ifi": 4, "text": "Вы наняты", "bigText": false},
+  {"ifi": 5, "text": "Важное системное сообщение...", "bigText": false},
+  {"ifi": 6, "text": "Есть исполнитель", "bigText": false},
+  {"ifi": 7, "text": "Вы прибыли на место работы", "bigText": false},
+  {"ifi": 8, "text": "Исполнитель на месте работы", "bigText": false},
+  {"ifi": 9, "text": "Вы начали работу", "bigText": false},
+  {"ifi": 10, "text": "Исполнитель начал работу", "bigText": false},
+  {"ifi": 11, "text": "Работа выполнена", "bigText": false},
+  {"ifi": 12, "text": "ЗАДАНИЕ: Ручная верификация", "bigText": false},
+  {"ifi": 13, "text": "Счет", "bigText": false},
+  {"ifi": 14, "text": "Счет ОТМЕНЕН продавцом", "bigText": false},
+  {"ifi": 15, "text": "Счет ОТМЕНЕН покупателем", "bigText": false},
+  {"ifi": 16, "text": "Счет ОПЛАЧЕН", "bigText": false}
+]
