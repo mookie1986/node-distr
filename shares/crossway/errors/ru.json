@@ -70,6 +70,7 @@
   {"err": 76, "msg": "У Вас нет доступа к этой операции", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 77, "msg": "Эта валюта пока недоступна в ПФУ. Выберите другую валюту", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 300, "msg": "Проблемы с сетью. Проверьте подключение к интернет", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
+  {"err": 301, "msg": "LAC: нет ответа", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 400, "msg": "Ошибка базы данных: проверте вводимые данные", "descr": null, "cmd": "userinfo", "note": "400-599 database errors"},
   {"err": 401, "msg": "Ошибка подключения к базе данных", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 402, "msg": "Ошибка подключения к локальной базе данных", "descr": null, "cmd": "sysinfo", "note": null},
