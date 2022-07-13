@@ -14,5 +14,6 @@
   {"ifi": 13, "text": "Счет", "bigText": false},
   {"ifi": 14, "text": "Счет ОТМЕНЕН продавцом", "bigText": false},
   {"ifi": 15, "text": "Счет ОТМЕНЕН покупателем", "bigText": false},
-  {"ifi": 16, "text": "Счет ОПЛАЧЕН", "bigText": false}
+  {"ifi": 16, "text": "Счет ОПЛАЧЕН", "bigText": false},
+  {"ifi": 17, "text": "ЗАДАНИЕ: Внешняя транзакция", "bigText": false}
 ]

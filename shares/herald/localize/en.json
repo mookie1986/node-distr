@@ -14,5 +14,6 @@
   {"ifi": 13, "text": "Bill", "bigText": false},
   {"ifi": 14, "text": "Bill CANCELED by payee", "bigText": false},
   {"ifi": 15, "text": "Bill REJECTED by payer", "bigText": false},
-  {"ifi": 16, "text": "Bill PAYED", "bigText": false}
+  {"ifi": 16, "text": "Bill PAYED", "bigText": false},
+  {"ifi": 17, "text": "TASK: Outer transaction", "bigText": false}
 ]
