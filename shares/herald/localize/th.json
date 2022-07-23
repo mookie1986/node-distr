@@ -1,0 +1,19 @@
+[
+  {"ifi": 1, "text": "ข้อความ", "bigText": false},
+  {"ifi": 2, "text": "กล่อง", "bigText": false},
+  {"ifi": 3, "text": "ข้อเสนอใหม่", "bigText": false},
+  {"ifi": 4, "text": "คุณได้รับการว่าจ้าง", "bigText": false},
+  {"ifi": 5, "text": "ข้อความระบบที่สำคัญ...", "bigText": false},
+  {"ifi": 6, "text": "คุณมีผู้ปฏิบัติงาน", "bigText": false},
+  {"ifi": 7, "text": "คุณถึงที่ทำงานแล้ว", "bigText": false},
+  {"ifi": 8, "text": "ผู้ปฏิบัติงานถึงที่ทำงานแล้ว", "bigText": false},
+  {"ifi": 9, "text": "คุณเพิ่งเริ่มงาน", "bigText": false},
+  {"ifi": 10, "text": "ผู้ปฏิบัติงานเพิ่งเริ่มงาน", "bigText": false},
+  {"ifi": 11, "text": "จบงาน", "bigText": false},
+  {"ifi": 12, "text": "งาน: การตรวจสอบด้วยตนเอง", "bigText": false},
+  {"ifi": 13, "text": "ใบแจ้งหนี้", "bigText": false},
+  {"ifi": 14, "text": "บิลยกเลิกโดยผู้รับเงิน", "bigText": false},
+  {"ifi": 15, "text": "บิลถูกปฏิเสธโดยผู้ชำระเงิน", "bigText": false},
+  {"ifi": 16, "text": "บิลจ่าย", "bigText": false},
+  {"ifi": 17, "text": "งาน: ธุรกรรมภายนอก", "bigText": false}
+]
