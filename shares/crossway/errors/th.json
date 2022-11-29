@@ -100,6 +100,7 @@
   {"err": 615, "msg": "โพสต์ล้มเหลว", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 616, "msg": "http(s) คำขอล้มเหลว", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 618, "msg": "คำสั่งถูกละเว้น/ปฏิเสธ", "descr": null, "cmd": "userinfo", "note": null},
+  {"err": 619, "msg": "Parameter must be coroutine", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 800, "msg": "ไม่มีผู้ให้บริการทางการเงินที่ใช้ได้", "descr": null, "cmd": "userinfo", "note": "800-999 FSP errors"},
   {"err": 801, "msg": "ไม่รองรับผู้ให้บริการทางการเงิน", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 802, "msg": "ผู้ให้บริการทางการเงินตอบกลับด้วยข้อผิดพลาด", "descr": null, "cmd": "userinfo", "note": null},

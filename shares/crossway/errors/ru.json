@@ -101,6 +101,7 @@
   {"err": 616, "msg": "Шибка при http запросе", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 618, "msg": "Заявка была отклонена", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 800, "msg": "ПФУ не доступны", "descr": null, "cmd": "userinfo", "note": "800-999 FSP errors"},
+  {"err": 619, "msg": "Параметер должен быть coroutine", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 801, "msg": "ПФУ не поддерживается", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 802, "msg": "ПФУ вернул ошибку", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 803, "msg": "ПФУ: не получили квоту", "descr": null, "cmd": "userinfo", "note": null},

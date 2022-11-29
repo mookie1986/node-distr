@@ -100,6 +100,7 @@
   {"err": 615, "msg": "Posting failure", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 616, "msg": "http(s) request failure", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 618, "msg": "The order has been ignored/declined", "descr": null, "cmd": "userinfo", "note": null},
+  {"err": 619, "msg": "Parameter must be coroutine", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 800, "msg": "No FSPs available", "descr": null, "cmd": "userinfo", "note": "800-999 FSP errors"},
   {"err": 801, "msg": "The FSP is not supported", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 802, "msg": "The FSP responded with error", "descr": null, "cmd": "userinfo", "note": null},
