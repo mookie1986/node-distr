@@ -78,7 +78,7 @@
   {"err": 404, "msg": "Data have not been saved", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 405, "msg": "Command has been failed", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 406, "msg": "Given valueBase is incorrect ", "descr": null, "cmd": "sysinfo", "note": null},
-  {"err": 500, "msg": "iol-connector: 'Horse' is not gotten ", "descr": null, "cmd": "sysinfo", "note": "500-599: iol-connector errors"},
+  {"err": 500, "msg": "iol-connector: 'Horse' is not gotten", "descr": null, "cmd": "sysinfo", "note": "500-599: iol-connector errors"},
   {"err": 501, "msg": "Topic subscription fail", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 502, "msg": "Sending fail", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 516, "msg": "The topic isn't exist", "descr": null, "cmd": "sysinfo", "note": null},
