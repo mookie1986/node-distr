@@ -41,7 +41,7 @@
   {"err": 47, "msg": "The order is already closed or taken", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 48, "msg": "Minimum wage is not set for the country", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 49, "msg": "Contract token hasn't been found", "descr": null, "cmd": "sysinfo", "note": null},
-  {"err": 50, "msg": "Some error", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 50, "msg": "Something went wrong. No worries :) Just go on", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 51, "msg": "Smart contract token hasn't been found", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 52, "msg": "Current contract stete doesn't allow change to the new state", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 53, "msg": "Invoice token hasn't been found", "descr": null, "cmd": "sysinfo", "note": null},

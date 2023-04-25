@@ -41,7 +41,7 @@
   {"err": 47, "msg": "ปิดรับออเดอร์หรือรับออเดอร์", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 48, "msg": "ไม่ได้กำหนดค่าแรงขั้นต่ำไว้ในประเทศ", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 49, "msg": "ไม่พบสัญญา token", "descr": null, "cmd": "sysinfo", "note": null},
-  {"err": 50, "msg": "เกิดข้อผิดพลาด", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 50, "msg": "Something went wrong. No worries :) Just go on", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 51, "msg": "ไม่พบ Smart contract token", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 52, "msg": "สัญญาปัจจุบันไม่อนุญาตให้เปลี่ยนสถานะใหม่", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 53, "msg": "ไม่พบใบแจ้งหนี้ token", "descr": null, "cmd": "sysinfo", "note": null},

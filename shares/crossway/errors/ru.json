@@ -41,7 +41,7 @@
   {"err": 47, "msg": "Заказ уже или закрыт или взят", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 48, "msg": "МРОТ не установлен для этой страны", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 49, "msg": "Токен контракта не найден", "descr": null, "cmd": "sysinfo", "note": null},
-  {"err": 50, "msg": "Некая ошибка", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 50, "msg": "Что-то пошло не так. Не беспокойтесь :) Просто продолжайте", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 51, "msg": "Token Smart-контракта не найден", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 52, "msg": "Текущее состояние не позволяет перейдти на желаемое состояние", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 53, "msg": "Токен платежки не найден", "descr": null, "cmd": "sysinfo", "note": null},
