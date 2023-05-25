@@ -83,16 +83,13 @@
   {"err": 501, "msg": "การสมัครหัวข้อล้มเหลว", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 502, "msg": "ส่งล้มเหลว", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 516, "msg": "ไม่มีหัวข้อนี้", "descr": null, "cmd": "sysinfo", "note": null},
-<<<<<<< HEAD
   {"err": 517, "msg": "Horse is stopped", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 518, "msg": "Horse is lost", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 519, "msg": "Session is lost", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 520, "msg": "Session returned an issue", "descr": null, "cmd": "sysinfo", "note": null},
-=======
   {"err": 517, "msg": "Horse หยุดทำงาน", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 518, "msg": "Horse จะหายไป", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 519, "msg": "Session จะหายไป", "descr": null, "cmd": "sysinfo", "note": null},
->>>>>>> e0d5baa87d6bf20cb5cec48d747b2d0c59464e84
   {"err": 600, "msg": "ข้อผิดพลาดในการเข้ารหัส/ถอดรหัสบนstirrup", "descr": null, "cmd": "userinfo", "note": "600-799 code errors"},
   {"err": 601, "msg": "ไม่พบชื่อวิธีการ", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 602, "msg": "ข้อผิดพลาดของรุ่นCaptcha", "descr": null, "cmd": "userinfo", "note": null},
