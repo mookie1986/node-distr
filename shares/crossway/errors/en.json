@@ -86,6 +86,7 @@
   {"err": 517, "msg": "Horse is stopped", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 518, "msg": "Horse is lost", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 519, "msg": "Session is lost", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 520, "msg": "Session returned an issue", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 600, "msg": "Encrypt/Decrypt error on the stirrup", "descr": null, "cmd": "userinfo", "note": "600-799 code errors"},
   {"err": 601, "msg": "Method name is not found", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 602, "msg": "Captcha generation error", "descr": null, "cmd": "userinfo", "note": null},
