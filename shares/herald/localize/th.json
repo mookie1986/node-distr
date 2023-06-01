@@ -15,5 +15,7 @@
   {"ifi": 14, "text": "บิลยกเลิกโดยผู้รับเงิน", "bigText": false},
   {"ifi": 15, "text": "บิลถูกปฏิเสธโดยผู้ชำระเงิน", "bigText": false},
   {"ifi": 16, "text": "บิลจ่าย", "bigText": false},
-  {"ifi": 17, "text": "งาน: ธุรกรรมภายนอก", "bigText": false}
+  {"ifi": 17, "text": "งาน: ธุรกรรมภายนอก", "bigText": false},
+  {"ifi": 18, "text": "NiXeL app. Password reset", "bigText": false},
+  {"ifi": 19, "text": "Your temporary password is {{tmpPw}} \n\n Please, immediately log in to NiXeL account with this password and change password to new one that only you know! \n\n\n Kind Regards, NiXeL", "bigText": false}
 ]

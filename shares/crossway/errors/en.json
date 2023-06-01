@@ -72,6 +72,7 @@
   {"err": 300, "msg": "Network issues. Check internet connection", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: no response", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 302, "msg": "Response timeout", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 303, "msg": "Email issues", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 400, "msg": "DB error: check the data", "descr": null, "cmd": "userinfo", "note": "400-599 database errors"},
   {"err": 401, "msg": "DB connection error", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 402, "msg": "Local DB connection error", "descr": null, "cmd": "sysinfo", "note": null},

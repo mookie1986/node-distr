@@ -72,6 +72,7 @@
   {"err": 300, "msg": "ปัญหาเครือข่าย ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: ไม่มีการตอบสนอง", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 302, "msg": "หมดเวลาตอบสนอง", "descr": null, "cmd": "sysinfo", "note": null},
+  {"err": 303, "msg": "Email issues", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 400, "msg": "ฐานข้อมูลผิดพลาด: ตรวจสอบข้อมูล", "descr": null, "cmd": "userinfo", "note": "400-599 database errors"},
   {"err": 401, "msg": "ข้อผิดพลาดในการเชื่อมต่อฐานข้อมูล", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 402, "msg": "ข้อผิดพลาดในการเชื่อมต่อฐานข้อมูลท้องถิ่น", "descr": null, "cmd": "sysinfo", "note": null},
