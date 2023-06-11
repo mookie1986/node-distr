@@ -414,7 +414,7 @@
   },
   {
     "err": 67,
-    "msg": "P/PS'de yeterince sinhro yok",
+    "msg": "P/PS'de yeterince SINHRO yok",
     "descr": null,
     "cmd": "userinfo",
     "note": null
