@@ -1,1 +1,97 @@
-[]
+[
+  {
+    "ifi": 1,
+    "text": "İleti",
+    "bigText": false
+  },
+  {
+    "ifi": 2,
+    "text": "Kutu",
+    "bigText": false
+  },
+  {
+    "ifi": 3,
+    "text": "Yeni teklif",
+    "bigText": false
+  },
+  {
+    "ifi": 4,
+    "text": "İşe alındınız",
+    "bigText": false
+  },
+  {
+    "ifi": 5,
+    "text": "Önemli sistem mesajı ...",
+    "bigText": false
+  },
+  {
+    "ifi": 6,
+    "text": "Bir sanatçınız var",
+    "bigText": false
+  },
+  {
+    "ifi": 7,
+    "text": "İş yerinin var",
+    "bigText": false
+  },
+  {
+    "ifi": 8,
+    "text": "Sanatçı iş yerinin var",
+    "bigText": false
+  },
+  {
+    "ifi": 9,
+    "text": "İşe yeni başladın",
+    "bigText": false
+  },
+  {
+    "ifi": 10,
+    "text": "Sanatçı işe başladı",
+    "bigText": false
+  },
+  {
+    "ifi": 11,
+    "text": "İş tamamlandı",
+    "bigText": false
+  },
+  {
+    "ifi": 12,
+    "text": "Görev: Manuel doğrulama",
+    "bigText": false
+  },
+  {
+    "ifi": 13,
+    "text": "Fatura",
+    "bigText": false
+  },
+  {
+    "ifi": 14,
+    "text": "Bill alacaklı tarafından iptal edildi",
+    "bigText": false
+  },
+  {
+    "ifi": 15,
+    "text": "Fatura ödeyen tarafından reddedildi",
+    "bigText": false
+  },
+  {
+    "ifi": 16,
+    "text": "Fatura ödedi",
+    "bigText": false
+  },
+  {
+    "ifi": 17,
+    "text": "Görev: dış işlem",
+    "bigText": false
+  },
+  {
+    "ifi": 18,
+    "text": "Nixel uygulaması. Parola sıfırlama",
+    "bigText": false
+  },
+  {
+    "ifi": 19,
+    "text": "Parola sıfırlama kodunuz {{pwResetCode}}\n\n'Şifreyi Unuttum' kullanmadıysanız, bu mesajı yok saymayın. Ayrıca, bir SSS ve kullanıcı destek grubuna mesaj gönderebilirsiniz.\n\nŞifre sıfırlamayı sipariş etmeniz durumunda, lütfen, bu şifre sıfırlama kodunu kullanarak hemen Nixel hesabınıza giriş yapın ve şifreniz olarak ve 'uygulama ayarları' için parolayı yalnızca sizin bildiğiniz yeni olana değiştirin!\n\nSaygılarımla,\nNiXeL",
+    "bigText": false
+  }
+]
