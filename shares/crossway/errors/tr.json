@@ -3,15 +3,13 @@
     "err": -1,
     "msg": "",
     "descr": null,
-    "cmd": null,
-    "note": null
+    "cmd": null
   },
   {
     "err": 0,
     "msg": "iol'de kayıtlı olmayan hata numarası veya hata listesi henüz indirilmedi",
     "descr": null,
-    "cmd": null,
-    "note": null
+    "cmd": null
   },
   {
     "err": 1,
@@ -24,471 +22,405 @@
     "err": 2,
     "msg": "Jeton iol süresi doldu",
     "descr": "Relogin",
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 3,
     "msg": "Hesabın kilitlendi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 4,
     "msg": "Bu özellik için yeterli hakınız yok. Lütfen sistemdeki rolünüzü giriş yapın veya artırın.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 5,
     "msg": "Geçersiz kullanıcı adı veya şifre",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 6,
     "msg": "Jeton iol bulunmaz veya süresi dolmaz",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 7,
     "msg": "TAMAM",
     "descr": null,
-    "cmd": null,
-    "note": null
+    "cmd": null
   },
   {
     "err": 8,
     "msg": "Bu giriş henüz etkinleştirilmedi. Aktivasyon koduna sahip bir e-posta, kayıt e-postasına gönderildi.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 9,
     "msg": "Kullanıcı adı başka bir kullanıcı tarafından işgal edilir. Başka bir kullanıcı adı deneyin.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 10,
     "msg": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 11,
     "msg": "Geçerli şifre yanlış",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 13,
     "msg": "Şifreniz belirtilen e-posta adresine gönderildi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 15,
     "msg": "Teşekkür ederim. Başvurunuz kabul edildi. Kısa süre içinde personelimiz tarafından sizinle iletişime geçilecek",
     "descr": null,
-    "cmd": null,
-    "note": null
+    "cmd": null
   },
   {
     "err": 21,
     "msg": "Doğru captcha cevabı gereklidir.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 23,
     "msg": "Lütfen, bu özelliği kullanmak için profilinizi doldurun",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 24,
     "msg": "Tüm uygulama kullanıcı özellikleri sizin için açıktır. Tebrikler!",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 25,
     "msg": "Bu gruptan çıkamazsın",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 26,
     "msg": "Lütfen kullanıcı adını kontrol edin",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 27,
     "msg": "Parola başarıyla değiştirildi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 29,
     "msg": "NiXeL ile başarısız giriş. Jeton alınmaz.",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 30,
     "msg": "NiXeL'deki kullanıcıda bu kullanıcı adı ile giriş yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 31,
     "msg": "Cihaz kimliği yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 32,
     "msg": "Uygulama Örneği Kayıt Hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 33,
     "msg": "Configuration @conf alınmadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 34,
     "msg": "Kullanıcı bulunamadı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 35,
     "msg": "Sohbet özelliğine erişim seviyesi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 36,
     "msg": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\"",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 37,
     "msg": "Bu odadaki operasyon için yeterli hak yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 38,
     "msg": "Etkileşim için uygulama bulamadım",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 39,
     "msg": "İptal",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 40,
     "msg": "Bir alan değeri min veya maksimum durumu tatmin etmez",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 41,
     "msg": "Uygulama için konum ayarına izin verilmiyor",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 42,
     "msg": "Görüntü işleme başarısız oldu",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 43,
     "msg": "Görüntü yükleme başarısız oldu",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 44,
     "msg": "Sipariş Yayın Hatası",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 45,
     "msg": "Sipariş kodu bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 46,
     "msg": "Setorderloc'u arayın Gözlemden önce",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 47,
     "msg": "Sipariş zaten kapalı veya alındı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 48,
     "msg": "Ülke için asgari ücret belirlenmedi",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 49,
     "msg": "Sözleşme token bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 50,
     "msg": "Bir şeyler yanlış gitti. Endişelenme :) sadece devam et",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 51,
     "msg": "Akıllı sözleşme belirteci bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 52,
     "msg": "Mevcut sözleşme Stete, yeni devlette değişime izin vermiyor",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 53,
     "msg": "Fatura jetonu bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 54,
     "msg": "Mevcut fatura durumu, gerekli durumun değişmesine izin vermiyor",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 55,
     "msg": "Komut zaten daha önce yapıldı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 56,
     "msg": "Posta kutusu bulunamadı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 57,
     "msg": "Profil bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 58,
     "msg": "Her iki tarafın resmine sahip isim, aile adı, doğum tarihi ve en az bir kimlik belgesi (kimlik kartı, sürücü belgesi veya pasaport gibi) gereklidir",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 59,
     "msg": "NiXeL hesabında yeterli para birimi yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 60,
     "msg": "NiXeL hesabında yeterince iou",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 61,
     "msg": "NiXeL Hesabında Yeterli Sinhro yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 62,
     "msg": "Zaten yapıldı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 63,
     "msg": "Belge bulunamadı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 64,
     "msg": "Kartta yetersiz fon",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 65,
     "msg": "Kartın süresi doldu",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 66,
     "msg": "Kart yok",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 67,
     "msg": "P/PS'de yeterince SINHRO yok",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 68,
     "msg": "GooglePlay/Appstore'da ne yüklü ne de bulundu",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 69,
     "msg": "Bir Kullanıcı Seçin",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 70,
     "msg": "Bu özellik için hesabınızı etkinleştirmelisiniz. Profilinizde yapabilirsiniz",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 71,
     "msg": "Bu özellik için hesabınızın doğrulamasını geçmelisiniz. Profilinizde yapabilirsiniz",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 72,
     "msg": "Profilinizde bir takma ad ayarlamalısınız",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 73,
     "msg": "Oda bulunamadı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 74,
     "msg": "Yeni veri yok",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 75,
     "msg": "Kullanıcı faturalara/manuel faturalara izin vermedi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 76,
     "msg": "Özelliğe erişiminiz yok",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 77,
     "msg": "Bu para birimi şimdiye kadar FSP'de uygulanamaz. Lütfen başka bir para birimi seçin",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
+  {"err": 78, "msg": "Kendi promosyon kodu kullanılarak yeni promosyon kodu kaydedilemez", "descr": null, "cmd": "userinfo"},
   {
     "err": 300,
     "msg": "Ağ sorunları. İnternet bağlantısını kontrol edin",
@@ -500,22 +432,19 @@
     "err": 301,
     "msg": "LAC: Yanıt yok",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 302,
     "msg": "Yanıt Zaman aşımı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 303,
     "msg": "E -posta Sorunları",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 400,
@@ -528,43 +457,37 @@
     "err": 401,
     "msg": "DB Bağlantı Hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 402,
     "msg": "Yerel DB bağlantı hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 403,
     "msg": "DB prosedürü",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 404,
     "msg": "Veriler kaydedilmedi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 405,
     "msg": "Komut başarısız oldu",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 406,
     "msg": "Verilen ValueBase yanlış",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 500,
@@ -577,50 +500,43 @@
     "err": 501,
     "msg": "Konu Aboneliği Başarısız",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 502,
     "msg": "Başarısızlık Gönderme",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 516,
     "msg": "Konu mevcut değil",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 517,
     "msg": "At durdu",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 518,
     "msg": "At kayboldu",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 519,
     "msg": "Oturum kayboldu",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 520,
     "msg": "Oturum bir sorun döndürdü",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 600,
@@ -633,127 +549,109 @@
     "err": 601,
     "msg": "Yöntem adı bulunamadı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 602,
     "msg": "Captcha üretim hatası",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 603,
     "msg": "Alınan veriler doğru iol-Protocol'de değil",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 604,
     "msg": "Yeterince geçerli parametre yok",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 605,
     "msg": "Geçersiz veri değerleri",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 606,
     "msg": "Dosya Yükleme Hatası. Boyutu veya formatı kontrol edin.",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 607,
     "msg": "Tanımsız komut",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 608,
     "msg": "Üzengi bu komutu tanıyamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 609,
     "msg": "Inreqpool'da orijinal istek oku bulamıyorum",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 610,
     "msg": "ACTNAME/SPNAME Tapınakta bulunamadı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 611,
     "msg": "JSON Ayrıştırma Hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 612,
     "msg": "Kod hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 613,
     "msg": "iol-Connect lib intited değil",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 614,
     "msg": "Yeni Konu Oluşturma Hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 615,
     "msg": "Gönderme hatası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 616,
     "msg": "HTTP (S) Talep Arızası",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 618,
     "msg": "Sipariş göz ardı edildi/reddedildi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 619,
     "msg": "Parametre coroutine olmalı",
     "descr": null,
-    "cmd": "sysinfo",
-    "note": null
+    "cmd": "sysinfo"
   },
   {
     "err": 800,
@@ -766,35 +664,30 @@
     "err": 801,
     "msg": "FSP desteklenmiyor",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 802,
     "msg": "FSP hata ile cevap verdi",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 803,
     "msg": "FSP: Alıntı Başarısız Olmak",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 804,
     "msg": "FSP: Dönüştürme Başarısızlığı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   },
   {
     "err": 805,
     "msg": "FSP: Aktarma Başarısızlığı",
     "descr": null,
-    "cmd": "userinfo",
-    "note": null
+    "cmd": "userinfo"
   }
 ]
