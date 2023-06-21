@@ -70,6 +70,8 @@
   {"err": 76, "msg": "You have no access to the feature", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 77, "msg": "This currency is not applicable in the FSP, so far. Please, choose another currency", "descr": null, "cmd": "userinfo", "note": null},
   {"err": 78, "msg": "Cannot register new promo code using self promo code", "descr": null, "cmd": "userinfo"},
+  {"err": 79, "msg": "Promo code not found", "descr": null, "cmd": "userinfo"},
+  {"err": 80, "msg": "Check state of the document", "descr": null, "cmd": "userinfo"},
   {"err": 300, "msg": "Network issues. Check internet connection", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: no response", "descr": null, "cmd": "sysinfo", "note": null},
   {"err": 302, "msg": "Response timeout", "descr": null, "cmd": "sysinfo", "note": null},

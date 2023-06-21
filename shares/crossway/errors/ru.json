@@ -70,6 +70,8 @@
   {"err": 76, "msg": "У Вас нет доступа к этой операции", "descr": null, "cmd": "userinfo"},
   {"err": 77, "msg": "Эта валюта пока недоступна в ПФУ. Выберите другую валюту", "descr": null, "cmd": "userinfo"},
   {"err": 78, "msg": "Нельзя регистрировать новый промокод используя свой промокод", "descr": null, "cmd": "userinfo"},
+  {"err": 79, "msg": "Промокод не найден", "descr": null, "cmd": "userinfo"},
+  {"err": 80, "msg": "Проверьте состояние документа", "descr": null, "cmd": "userinfo"},
   {"err": 300, "msg": "Проблемы с сетью. Проверьте подключение к интернет", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: нет ответа", "descr": null, "cmd": "sysinfo"},
   {"err": 302, "msg": "Вышло время ответа", "descr": null, "cmd": "sysinfo"},

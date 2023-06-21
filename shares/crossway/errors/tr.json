@@ -421,6 +421,8 @@
     "cmd": "userinfo"
   },
   {"err": 78, "msg": "Kendi promosyon kodu kullanılarak yeni promosyon kodu kaydedilemez", "descr": null, "cmd": "userinfo"},
+  {"err": 79, "msg": "Promo code not found", "descr": null, "cmd": "userinfo"},
+  {"err": 80, "msg": "Check state of the document", "descr": null, "cmd": "userinfo"},
   {
     "err": 300,
     "msg": "Ağ sorunları. İnternet bağlantısını kontrol edin",

@@ -70,6 +70,8 @@
   {"err": 76, "msg": "คุณไม่มีสิทธิ์เข้าถึงคุณลักษณะนี้", "descr": null, "cmd": "userinfo"},
   {"err": 77, "msg": "สกุลเงินนี้ไม่สามารถใช้ได้กับ FSP จนถึงตอนนี้ โปรดเลือกสกุลเงินอื่น", "descr": null, "cmd": "userinfo"},
   {"err": 78, "msg": "Cannot register new promo code using self promo code", "descr": null, "cmd": "userinfo"},
+  {"err": 79, "msg": "Promo code not found", "descr": null, "cmd": "userinfo"},
+  {"err": 80, "msg": "Check state of the document", "descr": null, "cmd": "userinfo"},
   {"err": 300, "msg": "ปัญหาเครือข่าย ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: ไม่มีการตอบสนอง", "descr": null, "cmd": "sysinfo"},
   {"err": 302, "msg": "หมดเวลาตอบสนอง", "descr": null, "cmd": "sysinfo"},
