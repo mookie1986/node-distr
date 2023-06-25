@@ -18,6 +18,6 @@
   {"ifi": 17, "text": "TASK: Outer transaction", "bigText": false},
   {"ifi": 18, "text": "NiXeL app. Password reset", "bigText": false},
   {"ifi": 19, "text": "Your password reset code is   {{pwResetCode}}\n\nIf you didn't use 'Forgot password' just ignore this message. Additionally, you can send a message in a FAQ & User support group.\n\nIn case of you ordered password reset, please, immediately log in to your NiXeL account using this password reset code as your password and change password in the 'App settings' to new one that only you know!\n\nKind Regards,\nNiXeL", "bigText": false},
-  {"ifi": 20, "text": "needs your action!", "bigText": false},
+  {"ifi": 20, "text": "need your action!", "bigText": false},
   {"ifi": 21, "text": "Please, confirm a promo seeding payment as soon as you receive it. Transfer {{transId}}", "bigText": false}
 ]

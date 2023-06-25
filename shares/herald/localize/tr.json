@@ -94,6 +94,6 @@
     "text": "Parola sıfırlama kodunuz {{pwResetCode}}\n\n'Şifreyi Unuttum' kullanmadıysanız, bu mesajı yok saymayın. Ayrıca, bir SSS ve kullanıcı destek grubuna mesaj gönderebilirsiniz.\n\nŞifre sıfırlamayı sipariş etmeniz durumunda, lütfen, bu şifre sıfırlama kodunu kullanarak hemen Nixel hesabınıza giriş yapın ve şifreniz olarak ve 'uygulama ayarları' için parolayı yalnızca sizin bildiğiniz yeni olana değiştirin!\n\nSaygılarımla,\nNiXeL",
     "bigText": false
   },
-  {"ifi": 20, "text": "harekete ihtiyacı var!", "bigText": false},
+  {"ifi": 20, "text": "harekete ihtiyac var!", "bigText": false},
   {"ifi": 21, "text": "Lütfen, bir promosyon başlangıç ödemesini alır almaz onaylayın. Aktar {{transId}}", "bigText": false}
 ]
