@@ -95,5 +95,7 @@
     "bigText": false
   },
   {"ifi": 20, "text": "harekete ihtiyac var!", "bigText": false},
-  {"ifi": 21, "text": "Lütfen, bir promosyon başlangıç ödemesini alır almaz onaylayın. Aktar {{transId}}", "bigText": false}
+  {"ifi": 21, "text": "Lütfen, bir promosyon başlangıç ödemesini alır almaz onaylayın. Aktar {{transId}}", "bigText": false},
+  {"ifi": 22, "text": "Onayla", "bigText": false},
+  {"ifi": 23, "text": "{{transId}} transfer kimlikli ödemeniz onaylandı", "bigText": false}
 ]
