@@ -438,7 +438,7 @@
   },
   {
     "err": 302,
-    "msg": "Yanıt Zaman aşımı",
+    "msg": "Yanıt zaman aşımı. Lütfen birkaç dakika sonra tekrar deneyin",
     "descr": null,
     "cmd": "sysinfo"
   },

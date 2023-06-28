@@ -74,7 +74,7 @@
   {"err": 80, "msg": "Check state of the document", "descr": null, "cmd": "userinfo"},
   {"err": 300, "msg": "ปัญหาเครือข่าย ตรวจสอบการเชื่อมต่ออินเทอร์เน็ต", "descr": null, "cmd": "userinfo", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: ไม่มีการตอบสนอง", "descr": null, "cmd": "sysinfo"},
-  {"err": 302, "msg": "หมดเวลาตอบสนอง", "descr": null, "cmd": "sysinfo"},
+  {"err": 302, "msg": "Response timeout. Please, try a few minutes later again", "descr": null, "cmd": "sysinfo"},
   {"err": 303, "msg": "ปัญหาอีเมล", "descr": null, "cmd": "sysinfo"},
   {"err": 400, "msg": "ฐานข้อมูลผิดพลาด: ตรวจสอบข้อมูล", "descr": null, "cmd": "userinfo", "note": "400-599 database errors"},
   {"err": 401, "msg": "ข้อผิดพลาดในการเชื่อมต่อฐานข้อมูล", "descr": null, "cmd": "sysinfo"},
