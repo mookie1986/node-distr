@@ -1,25 +1,117 @@
 [
-  {"ifi": 1, "text": "ข้อความ", "bigText": false},
-  {"ifi": 2, "text": "กล่อง", "bigText": false},
-  {"ifi": 3, "text": "ข้อเสนอใหม่", "bigText": false},
-  {"ifi": 4, "text": "คุณได้รับการว่าจ้าง", "bigText": false},
-  {"ifi": 5, "text": "ข้อความระบบที่สำคัญ...", "bigText": false},
-  {"ifi": 6, "text": "คุณมีผู้ปฏิบัติงาน", "bigText": false},
-  {"ifi": 7, "text": "คุณถึงที่ทำงานแล้ว", "bigText": false},
-  {"ifi": 8, "text": "ผู้ปฏิบัติงานถึงที่ทำงานแล้ว", "bigText": false},
-  {"ifi": 9, "text": "คุณเพิ่งเริ่มงาน", "bigText": false},
-  {"ifi": 10, "text": "ผู้ปฏิบัติงานเพิ่งเริ่มงาน", "bigText": false},
-  {"ifi": 11, "text": "จบงาน", "bigText": false},
-  {"ifi": 12, "text": "งาน: การตรวจสอบด้วยตนเอง", "bigText": false},
-  {"ifi": 13, "text": "ใบแจ้งหนี้", "bigText": false},
-  {"ifi": 14, "text": "บิลยกเลิกโดยผู้รับเงิน", "bigText": false},
-  {"ifi": 15, "text": "บิลถูกปฏิเสธโดยผู้ชำระเงิน", "bigText": false},
-  {"ifi": 16, "text": "บิลจ่าย", "bigText": false},
-  {"ifi": 17, "text": "งาน: ธุรกรรมภายนอก", "bigText": false}, 
-  {"ifi": 18, "text": "แอพ NiXeL รีเซ็ตรหัสผ่าน", "bigText": false},
-  {"ifi": 19, "text": "รหัสรีเซ็ตรหัสผ่านของคุณคือ   {{pwResetCode}}\n\n หากคุณไม่ได้ใช้ 'ลืมรหัสผ่าน' ก็ไม่ต้องสนใจข้อความนี้ นอกจากนี้ คุณสามารถส่งข้อความในกลุ่มคำถามที่พบบ่อยและการสนับสนุนผู้ใช้\n\n ในกรณีที่คุณสั่งรีเซ็ตรหัสผ่าน โปรดลงชื่อเข้าใช้บัญชี NiXeL ของคุณทันทีโดยใช้รหัสรีเซ็ตรหัสผ่านนี้เป็นรหัสผ่านของคุณ และเปลี่ยนรหัสผ่านใน 'การตั้งค่าแอป' เป็นรหัสผ่านใหม่ที่มีคุณเท่านั้นที่รู้!\n\n ขอแสดงความนับถือ,\nNiXeL", "bigText": false},
-  {"ifi": 20, "text": "need your action!", "bigText": false},
-  {"ifi": 21, "text": "Please, confirm a promo seeding payment as soon as you receive it. Transfer {{transId}}", "bigText": false},
-  {"ifi": 22, "text": "Confirmation", "bigText": false},
-  {"ifi": 23, "text": "Your payment with transfer ID {{transId}} has been confirmed", "bigText": false}
+  {
+    "ifi": 1,
+    "text": "ข้อความ",
+    "bigText": false
+  },
+  {
+    "ifi": 2,
+    "text": "กล่อง",
+    "bigText": false
+  },
+  {
+    "ifi": 3,
+    "text": "ข้อเสนอใหม่",
+    "bigText": false
+  },
+  {
+    "ifi": 4,
+    "text": "คุณได้รับการว่าจ้าง",
+    "bigText": false
+  },
+  {
+    "ifi": 5,
+    "text": "ข้อความระบบที่สำคัญ...",
+    "bigText": false
+  },
+  {
+    "ifi": 6,
+    "text": "คุณมีผู้ปฏิบัติงาน",
+    "bigText": false
+  },
+  {
+    "ifi": 7,
+    "text": "คุณถึงที่ทำงานแล้ว",
+    "bigText": false
+  },
+  {
+    "ifi": 8,
+    "text": "ผู้ปฏิบัติงานถึงที่ทำงานแล้ว",
+    "bigText": false
+  },
+  {
+    "ifi": 9,
+    "text": "คุณเพิ่งเริ่มงาน",
+    "bigText": false
+  },
+  {
+    "ifi": 10,
+    "text": "ผู้ปฏิบัติงานเพิ่งเริ่มงาน",
+    "bigText": false
+  },
+  {
+    "ifi": 11,
+    "text": "จบงาน",
+    "bigText": false
+  },
+  {
+    "ifi": 12,
+    "text": "งาน: การตรวจสอบด้วยตนเอง",
+    "bigText": false
+  },
+  {
+    "ifi": 13,
+    "text": "ใบแจ้งหนี้",
+    "bigText": false
+  },
+  {
+    "ifi": 14,
+    "text": "บิลยกเลิกโดยผู้รับเงิน",
+    "bigText": false
+  },
+  {
+    "ifi": 15,
+    "text": "บิลถูกปฏิเสธโดยผู้ชำระเงิน",
+    "bigText": false
+  },
+  {
+    "ifi": 16,
+    "text": "บิลจ่าย",
+    "bigText": false
+  },
+  {
+    "ifi": 17,
+    "text": "งาน: ธุรกรรมภายนอก",
+    "bigText": false
+  },
+  {
+    "ifi": 18,
+    "text": "แอพ NiXeL รีเซ็ตรหัสผ่าน",
+    "bigText": false
+  },
+  {
+    "ifi": 19,
+    "text": "รหัสรีเซ็ตรหัสผ่านของคุณคือ   {{pwResetCode}}\n\n หากคุณไม่ได้ใช้ 'ลืมรหัสผ่าน' ก็ไม่ต้องสนใจข้อความนี้ นอกจากนี้ คุณสามารถส่งข้อความในกลุ่มคำถามที่พบบ่อยและการสนับสนุนผู้ใช้\n\n ในกรณีที่คุณสั่งรีเซ็ตรหัสผ่าน โปรดลงชื่อเข้าใช้บัญชี NiXeL ของคุณทันทีโดยใช้รหัสรีเซ็ตรหัสผ่านนี้เป็นรหัสผ่านของคุณ และเปลี่ยนรหัสผ่านใน 'การตั้งค่าแอป' เป็นรหัสผ่านใหม่ที่มีคุณเท่านั้นที่รู้!\n\n ขอแสดงความนับถือ,\nNiXeL",
+    "bigText": false
+  },
+  {
+    "ifi": 20,
+    "text": "ต้องการการกระทำของคุณ!",
+    "bigText": false
+  },
+  {
+    "ifi": 21,
+    "text": "โปรดยืนยันการชำระเงินโปรโมชันทันทีที่คุณได้รับ โอน {{transId}}",
+    "bigText": false
+  },
+  {
+    "ifi": 22,
+    "text": "การยืนยัน",
+    "bigText": false
+  },
+  {
+    "ifi": 23,
+    "text": "การชำระเงินของคุณด้วยรหัสการโอน {{transId}} ได้รับการยืนยันแล้ว",
+    "bigText": false
+  }
 ]
