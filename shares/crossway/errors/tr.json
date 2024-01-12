@@ -542,7 +542,7 @@
   },
   {
     "err": 600,
-    "msg": "Üzengide şifreleme/şifresini çözme",
+    "msg": "şifreleme/şifresini yanlış",
     "descr": null,
     "cmd": "userinfo",
     "note": "600-799 code errors"

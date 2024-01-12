@@ -91,7 +91,7 @@
   {"err": 518, "msg": "Horse потерян", "descr": null, "cmd": "sysinfo"},
   {"err": 519, "msg": "Сессия потеряна", "descr": null, "cmd": "sysinfo"},
   {"err": 520, "msg": "Сессия вернула проблемку", "descr": null, "cmd": "sysinfo"},
-  {"err": 600, "msg": "Ошибка шифровки/дешифровки на стороне стремени", "descr": null, "cmd": "userinfo", "note": "600-799 code errors"},
+  {"err": 600, "msg": "Ошибка шифровки/дешифровки", "descr": null, "cmd": "userinfo", "note": "600-799 code errors"},
   {"err": 601, "msg": "Название метода не найдено", "descr": null, "cmd": "userinfo"},
   {"err": 602, "msg": "Ошибка генерации каптчи", "descr": null, "cmd": "userinfo"},
   {"err": 603, "msg": "Полученные данные не соответствуют iol-протоколу", "descr": null, "cmd": "userinfo"},
