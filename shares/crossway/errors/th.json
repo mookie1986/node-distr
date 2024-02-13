@@ -435,6 +435,7 @@
     "msg": "ส่งล้มเหลว",
     "cmd": "sysinfo"
   },
+  {"err": 503, "msg": "Cannot open the iol app"},
   {
     "err": 516,
     "msg": "ไม่มีหัวข้อนี้",

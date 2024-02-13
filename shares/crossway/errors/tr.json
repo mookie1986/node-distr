@@ -423,6 +423,7 @@
     "msg": "Başarısızlık Gönderme",
     "cmd": "sysinfo"
   },
+  {"err": 503, "msg": "Cannot open the iol app"},
   {
     "err": 516,
     "msg": "Konu mevcut değil",
