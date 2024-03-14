@@ -435,7 +435,7 @@
     "msg": "ส่งล้มเหลว",
     "cmd": "sysinfo"
   },
-  {"err": 503, "msg": "Cannot open the iol app"},
+  {"err": 503, "msg": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"},
   {
     "err": 516,
     "msg": "ไม่มีหัวข้อนี้",

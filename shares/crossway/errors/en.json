@@ -86,7 +86,7 @@
   {"err": 500, "msg": "iol-connector: 'Horse' is not gotten", "note": "500-599: iol-connector errors"},
   {"err": 501, "msg": "Topic subscription fail"},
   {"err": 502, "msg": "Sending fail"},
-  {"err": 503, "msg": "Cannot open the iol app"},
+  {"err": 503, "msg": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"},
   {"err": 516, "msg": "The topic isn't exist"},
   {"err": 517, "msg": "Horse is stopped"},
   {"err": 518, "msg": "Horse is lost"},
