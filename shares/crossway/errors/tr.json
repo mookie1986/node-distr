@@ -184,7 +184,7 @@
   },
   {
     "err": 45,
-    "msg": "Sipariş kodu bulunamadı",
+    "msg": "Sipariş tokeni bulunamadı",
     "cmd": "sysinfo"
   },
   {

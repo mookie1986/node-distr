@@ -184,7 +184,7 @@
   },
   {
     "err": 45,
-    "msg": "ไม่พบรหัสการสั่งซื้อ",
+    "msg": "Order token hasn't been found",
     "cmd": "sysinfo"
   },
   {

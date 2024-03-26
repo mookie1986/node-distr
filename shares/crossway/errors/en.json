@@ -36,7 +36,7 @@
   {"err": 42, "msg": "Image processing failed"},
   {"err": 43, "msg": "Image uploading failed"},
   {"err": 44, "msg": "Order publication failure"},
-  {"err": 45, "msg": "Order code hasn't been found"},
+  {"err": 45, "msg": "Order token hasn't been found"},
   {"err": 46, "msg": "Call setOrderLoc before observeMatchedOrders"},
   {"err": 47, "msg": "The order is already closed or taken"},
   {"err": 48, "msg": "Minimum wage is not set for the country"},
