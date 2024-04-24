@@ -72,6 +72,7 @@
   {"err": 78, "msg": "Cannot register new promo code using self promo code"},
   {"err": 79, "msg": "Promo code not found"},
   {"err": 80, "msg": "Check state of the document"},
+  {"err": 81, "msg": "The document has been expired"},
   {"err": 300, "msg": "Network issues. Check internet connection", "note": "300-399 connection errors"},
   {"err": 301, "msg": "LAC: no response"},
   {"err": 302, "msg": "Response timeout. Please, try a few minutes later again"},
