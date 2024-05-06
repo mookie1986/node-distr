@@ -89,7 +89,7 @@
     "text": "การชำระเงินของคุณด้วยรหัสการโอน {{transId}} ได้รับการยืนยันแล้ว"
   },
   {"ifi": 24, "text": "Job offer"},
-  {"ifi": 25, "text": "Contract is canceled"},
+  {"ifi": 25, "text": "Contract is cancelled"},
   {"ifi": 26, "text": "Job has begun"},
   {"ifi": 27, "text": "Job is paused"},
   {"ifi": 28, "text": "Job continues"},
