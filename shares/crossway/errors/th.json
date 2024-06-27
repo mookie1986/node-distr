@@ -462,6 +462,7 @@
     "msg": "Session ส่งคืนปัญหา",
     "cmd": "sysinfo"
   },
+  {"err": 521, "msg": "iolService has not been launched on this device or it doesn't response"},
   {
     "err": 600,
     "msg": "ข้อผิดพลาดในการเข้ารหัส/ถอดรหัสบน",

@@ -450,6 +450,7 @@
     "msg": "Oturum bir sorun döndürdü",
     "cmd": "sysinfo"
   },
+  {"err": 521, "msg": "iolService has not been launched on this device or it doesn't response"},
   {
     "err": 600,
     "msg": "şifreleme/şifresini yanlış",

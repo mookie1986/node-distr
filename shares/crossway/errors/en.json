@@ -93,6 +93,7 @@
   {"err": 518, "msg": "Horse is lost"},
   {"err": 519, "msg": "Session is lost"},
   {"err": 520, "msg": "Session returned an issue"},
+  {"err": 521, "msg": "iolService has not been launched on this device or it doesn't response"},
   {"err": 600, "msg": "Encrypt/Decrypt error", "note": "600-799 code errors"},
   {"err": 601, "msg": "Method name is not found"},
   {"err": 602, "msg": "Captcha generation error"},
