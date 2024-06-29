@@ -94,5 +94,6 @@
   {"ifi": 27, "text": "Job is paused"},
   {"ifi": 28, "text": "Job continues"},
   {"ifi": 29, "text": "Job is completed"},
-  {"ifi": 30, "text": "30 minutes before job starts!"}
+  {"ifi": 30, "text": "30 minutes before job starts!"},
+  {"ifi": 31, "text": "Location track request"}
 ]
