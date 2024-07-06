@@ -83,5 +83,7 @@
   {"ifi": 28, "text": "İş devam ediyor"},
   {"ifi": 29, "text": "İş tamamlandı"},
   {"ifi": 30, "text": "İş başlamadan 30 dakika önce!"},
-  {"ifi": 31, "text": "Konum izleme isteği"}
+  {"ifi": 31, "text": "Konum izleme isteği"},
+  {"ifi": 32, "text": "İzin verilmiş"},
+  {"ifi": 33, "text": "Reddedildi"}
 ]
