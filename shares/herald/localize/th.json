@@ -98,5 +98,5 @@
   {"ifi": 31, "text": "Location track request"},
   {"ifi": 32, "text": "Allowed"},
   {"ifi": 33, "text": "Declined"},
-  {"ifi": 34, "text": "As observer"}
+  {"ifi": 34, "text": "To observer"}
 ]
