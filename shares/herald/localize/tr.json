@@ -85,5 +85,6 @@
   {"ifi": 30, "text": "İş başlamadan 30 dakika önce!"},
   {"ifi": 31, "text": "Konum izleme isteği"},
   {"ifi": 32, "text": "İzin verilmiş"},
-  {"ifi": 33, "text": "Reddedildi"}
+  {"ifi": 33, "text": "Reddedildi"},
+  {"ifi": 34, "text": "Gözlemci olarak"}
 ]

@@ -31,5 +31,6 @@
   {"ifi": 30, "text": "30 minutes before job starts!"},
   {"ifi": 31, "text": "Location track request"},
   {"ifi": 32, "text": "Allowed"},
-  {"ifi": 33, "text": "Declined"}
+  {"ifi": 33, "text": "Declined"},
+  {"ifi": 34, "text": "As observer"}
 ]

@@ -43,7 +43,7 @@
   {"err": 49, "msg": "Contract token hasn't been found"},
   {"err": 50, "msg": "Something went wrong. No worries :) Just go on"},
   {"err": 51, "msg": "Smart contract token hasn't been found"},
-  {"err": 52, "msg": "Current contract stete doesn't allow change to the new state"},
+  {"err": 52, "msg": "Current contract state doesn't allow change to the new state"},
   {"err": 53, "msg": "Invoice token hasn't been found"},
   {"err": 54, "msg": "Current invoice state doesn't allow change to the required state"},
   {"err": 55, "msg": "The command has been already done earlier"},
