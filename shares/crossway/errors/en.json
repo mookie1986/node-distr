@@ -32,7 +32,7 @@
   {"err": 38, "msg": "Could not find app for interaction"},
   {"err": 39, "msg": "Cancellation"},
   {"err": 40, "msg": "A field value does not satisfy min or max condition"},
-  {"err": 41, "msg": "Location setting is not allowed for the app"},
+  {"err": 41, "msg": "Location setting is not allowed for the app. Maybe Location/GPS is switched OFF on your device or you didn't give NiXeL permission to use location data"},
   {"err": 42, "msg": "Image processing failed"},
   {"err": 43, "msg": "Image uploading failed"},
   {"err": 44, "msg": "Order publication failure"},

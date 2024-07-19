@@ -10,34 +10,28 @@
   {
     "err": 1,
     "msg": "Yetkilendirmeye ihtiyacım var. Lütfen giriş yapın",
-    "cmd": "userinfo",
     "note": "1-299 user interaction errors"
   },
   {
     "err": 2,
     "msg": "Jeton iol süresi doldu",
-    "descr": "Relogin",
-    "cmd": "sysinfo"
+    "descr": "Relogin"
   },
   {
     "err": 3,
-    "msg": "Hesabın kilitlendi",
-    "cmd": "userinfo"
+    "msg": "Hesabın kilitlendi"
   },
   {
     "err": 4,
-    "msg": "Bu özellik için yeterli hakınız yok. Lütfen sistemdeki rolünüzü giriş yapın veya artırın.",
-    "cmd": "userinfo"
+    "msg": "Bu özellik için yeterli hakınız yok. Lütfen sistemdeki rolünüzü giriş yapın veya artırın."
   },
   {
     "err": 5,
-    "msg": "Geçersiz kullanıcı adı veya şifre",
-    "cmd": "userinfo"
+    "msg": "Geçersiz kullanıcı adı veya şifre"
   },
   {
     "err": 6,
-    "msg": "Jeton iol bulunmaz veya süresi dolmaz",
-    "cmd": "sysinfo"
+    "msg": "Jeton iol bulunmaz veya süresi dolmaz"
   },
   {
     "err": 7,
@@ -45,28 +39,23 @@
   },
   {
     "err": 8,
-    "msg": "Bu giriş henüz etkinleştirilmedi. Aktivasyon koduna sahip bir e-posta, kayıt e-postasına gönderildi.",
-    "cmd": "userinfo"
+    "msg": "Bu giriş henüz etkinleştirilmedi. Aktivasyon koduna sahip bir e-posta, kayıt e-postasına gönderildi."
   },
   {
     "err": 9,
-    "msg": "Kullanıcı adı başka bir kullanıcı tarafından işgal edilir. Başka bir kullanıcı adı deneyin.",
-    "cmd": "userinfo"
+    "msg": "Kullanıcı adı başka bir kullanıcı tarafından işgal edilir. Başka bir kullanıcı adı deneyin."
   },
   {
     "err": 10,
-    "msg": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz.",
-    "cmd": "userinfo"
+    "msg": "Kayıtlı oldunuz ve şimdi giriş yapabilirsiniz."
   },
   {
     "err": 11,
-    "msg": "Geçerli şifre yanlış",
-    "cmd": "userinfo"
+    "msg": "Geçerli şifre yanlış"
   },
   {
     "err": 13,
-    "msg": "Şifreniz belirtilen e-posta adresine gönderildi",
-    "cmd": "userinfo"
+    "msg": "Şifreniz belirtilen e-posta adresine gönderildi"
   },
   {
     "err": 15,
@@ -74,278 +63,220 @@
   },
   {
     "err": 21,
-    "msg": "Doğru captcha cevabı gereklidir.",
-    "cmd": "userinfo"
+    "msg": "Doğru captcha cevabı gereklidir."
   },
   {
     "err": 23,
-    "msg": "Lütfen, bu özelliği kullanmak için profilinizi doldurun",
-    "cmd": "userinfo"
+    "msg": "Lütfen, bu özelliği kullanmak için profilinizi doldurun"
   },
   {
     "err": 24,
-    "msg": "Tüm uygulama kullanıcı özellikleri sizin için açıktır. Tebrikler!",
-    "cmd": "userinfo"
+    "msg": "Tüm uygulama kullanıcı özellikleri sizin için açıktır. Tebrikler!"
   },
   {
     "err": 25,
-    "msg": "Bu gruptan çıkamazsın",
-    "cmd": "userinfo"
+    "msg": "Bu gruptan çıkamazsın"
   },
   {
     "err": 26,
-    "msg": "Lütfen kullanıcı adını kontrol edin",
-    "cmd": "userinfo"
+    "msg": "Lütfen kullanıcı adını kontrol edin"
   },
   {
     "err": 27,
-    "msg": "Parola başarıyla değiştirildi",
-    "cmd": "userinfo"
+    "msg": "Parola başarıyla değiştirildi"
   },
   {
     "err": 29,
-    "msg": "NiXeL ile başarısız giriş. Jeton alınmaz.",
-    "cmd": "sysinfo"
+    "msg": "NiXeL ile başarısız giriş. Jeton alınmaz."
   },
   {
     "err": 30,
-    "msg": "NiXeL'deki kullanıcıda bu kullanıcı adı ile giriş yok",
-    "cmd": "sysinfo"
+    "msg": "NiXeL'deki kullanıcıda bu kullanıcı adı ile giriş yok"
   },
   {
     "err": 31,
-    "msg": "Cihaz kimliği yok",
-    "cmd": "sysinfo"
+    "msg": "Cihaz kimliği yok"
   },
   {
     "err": 32,
-    "msg": "Uygulama Örneği Kayıt Hatası",
-    "cmd": "sysinfo"
+    "msg": "Uygulama Örneği Kayıt Hatası"
   },
   {
     "err": 33,
-    "msg": "Configuration @conf alınmadı",
-    "cmd": "sysinfo"
+    "msg": "Configuration @conf alınmadı"
   },
   {
     "err": 34,
-    "msg": "Kullanıcı bulunamadı",
-    "cmd": "userinfo"
+    "msg": "Kullanıcı bulunamadı"
   },
   {
     "err": 35,
-    "msg": "Sohbet özelliğine erişim seviyesi",
-    "cmd": "userinfo"
+    "msg": "Sohbet özelliğine erişim seviyesi"
   },
   {
     "err": 36,
-    "msg": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\"",
-    "cmd": "sysinfo"
+    "msg": "Bu sohbet sizin için kilitli. Sebep kaldığı gibi: \"{{lock_descr}}\""
   },
   {
     "err": 37,
-    "msg": "Bu odadaki operasyon için yeterli hak yok",
-    "cmd": "sysinfo"
+    "msg": "Bu odadaki operasyon için yeterli hak yok"
   },
   {
     "err": 38,
-    "msg": "Etkileşim için uygulama bulamadım",
-    "cmd": "userinfo"
+    "msg": "Etkileşim için uygulama bulamadım"
   },
   {
     "err": 39,
-    "msg": "İptal",
-    "cmd": "sysinfo"
+    "msg": "İptal"
   },
   {
     "err": 40,
-    "msg": "Bir alan değeri min veya maksimum durumu tatmin etmez",
-    "cmd": "sysinfo"
+    "msg": "Bir alan değeri min veya maksimum durumu tatmin etmez"
   },
-  {
-    "err": 41,
-    "msg": "Uygulama için konum ayarına izin verilmiyor",
-    "cmd": "sysinfo"
-  },
+  {"err": 41, "msg": "Uygulama için konum ayarına izin verilmiyor. Cihazınızda Konum/GPS KAPALI olabilir veya NiXeL'e konum verilerini kullanma izni vermemiş olabilirsiniz"},
   {
     "err": 42,
-    "msg": "Görüntü işleme başarısız oldu",
-    "cmd": "userinfo"
+    "msg": "Görüntü işleme başarısız oldu"
   },
   {
     "err": 43,
-    "msg": "Görüntü yükleme başarısız oldu",
-    "cmd": "userinfo"
+    "msg": "Görüntü yükleme başarısız oldu"
   },
   {
     "err": 44,
-    "msg": "Sipariş Yayın Hatası",
-    "cmd": "userinfo"
+    "msg": "Sipariş Yayın Hatası"
   },
   {
     "err": 45,
-    "msg": "Sipariş tokeni bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "Sipariş tokeni bulunamadı"
   },
   {
     "err": 46,
-    "msg": "Setorderloc'u arayın Gözlemden önce",
-    "cmd": "sysinfo"
+    "msg": "Setorderloc'u arayın Gözlemden önce"
   },
   {
     "err": 47,
-    "msg": "Sipariş zaten kapalı veya alındı",
-    "cmd": "userinfo"
+    "msg": "Sipariş zaten kapalı veya alındı"
   },
   {
     "err": 48,
-    "msg": "Ülke için asgari ücret belirlenmedi",
-    "cmd": "sysinfo"
+    "msg": "Ülke için asgari ücret belirlenmedi"
   },
   {
     "err": 49,
-    "msg": "Sözleşme token bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "Sözleşme token bulunamadı"
   },
   {
     "err": 50,
-    "msg": "Bir şeyler yanlış gitti. Endişelenme :) sadece devam et",
-    "cmd": "sysinfo"
+    "msg": "Bir şeyler yanlış gitti. Endişelenme :) sadece devam et"
   },
   {
     "err": 51,
-    "msg": "Akıllı sözleşme belirteci bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "Akıllı sözleşme belirteci bulunamadı"
   },
   {
     "err": 52,
-    "msg": "Mevcut sözleşme Stete, yeni devlette değişime izin vermiyor",
-    "cmd": "sysinfo"
+    "msg": "Mevcut sözleşme Stete, yeni devlette değişime izin vermiyor"
   },
   {
     "err": 53,
-    "msg": "Fatura jetonu bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "Fatura jetonu bulunamadı"
   },
   {
     "err": 54,
-    "msg": "Mevcut fatura durumu, gerekli durumun değişmesine izin vermiyor",
-    "cmd": "sysinfo"
+    "msg": "Mevcut fatura durumu, gerekli durumun değişmesine izin vermiyor"
   },
   {
     "err": 55,
-    "msg": "Komut zaten daha önce yapıldı",
-    "cmd": "userinfo"
+    "msg": "Komut zaten daha önce yapıldı"
   },
   {
     "err": 56,
-    "msg": "Posta kutusu bulunamadı",
-    "cmd": "userinfo"
+    "msg": "Posta kutusu bulunamadı"
   },
   {
     "err": 57,
-    "msg": "Profil bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "Profil bulunamadı"
   },
   {
     "err": 58,
-    "msg": "Her iki tarafın resmine sahip isim, aile adı, doğum tarihi ve en az bir kimlik belgesi (kimlik kartı, sürücü belgesi veya pasaport gibi) gereklidir",
-    "cmd": "userinfo"
+    "msg": "Her iki tarafın resmine sahip isim, aile adı, doğum tarihi ve en az bir kimlik belgesi (kimlik kartı, sürücü belgesi veya pasaport gibi) gereklidir"
   },
   {
     "err": 59,
-    "msg": "NiXeL hesabında yeterli para birimi yok",
-    "cmd": "sysinfo"
+    "msg": "NiXeL hesabında yeterli para birimi yok"
   },
   {
     "err": 60,
-    "msg": "NiXeL hesabında yeterince iou",
-    "cmd": "sysinfo"
+    "msg": "NiXeL hesabında yeterince iou"
   },
   {
     "err": 61,
-    "msg": "NiXeL Hesabında Yeterli Sinhro yok",
-    "cmd": "sysinfo"
+    "msg": "NiXeL Hesabında Yeterli Sinhro yok"
   },
   {
     "err": 62,
-    "msg": "Zaten yapıldı",
-    "cmd": "userinfo"
+    "msg": "Zaten yapıldı"
   },
   {
     "err": 63,
-    "msg": "Belge bulunamadı",
-    "cmd": "userinfo"
+    "msg": "Belge bulunamadı"
   },
   {
     "err": 64,
-    "msg": "Kartta yetersiz fon",
-    "cmd": "userinfo"
+    "msg": "Kartta yetersiz fon"
   },
   {
     "err": 65,
-    "msg": "Kartın süresi doldu",
-    "cmd": "userinfo"
+    "msg": "Kartın süresi doldu"
   },
   {
     "err": 66,
-    "msg": "Kart yok",
-    "cmd": "userinfo"
+    "msg": "Kart yok"
   },
   {
     "err": 67,
-    "msg": "P/PS'de yeterince SINHRO yok",
-    "cmd": "userinfo"
+    "msg": "P/PS'de yeterince SINHRO yok"
   },
   {
     "err": 68,
-    "msg": "GooglePlay/Appstore'da ne yüklü ne de bulundu",
-    "cmd": "sysinfo"
+    "msg": "GooglePlay/Appstore'da ne yüklü ne de bulundu"
   },
   {
     "err": 69,
-    "msg": "Bir Kullanıcı Seçin",
-    "cmd": "userinfo"
+    "msg": "Bir Kullanıcı Seçin"
   },
   {
     "err": 70,
-    "msg": "Bu özellik için hesabınızı etkinleştirmelisiniz. Profilinizde yapabilirsiniz",
-    "cmd": "userinfo"
+    "msg": "Bu özellik için hesabınızı etkinleştirmelisiniz. Profilinizde yapabilirsiniz"
   },
   {
     "err": 71,
-    "msg": "Bu özellik için hesabınızın doğrulamasını geçmelisiniz. Profilinizde yapabilirsiniz",
-    "cmd": "userinfo"
+    "msg": "Bu özellik için hesabınızın doğrulamasını geçmelisiniz. Profilinizde yapabilirsiniz"
   },
   {
     "err": 72,
-    "msg": "Profilinizde bir takma ad ayarlamalısınız",
-    "cmd": "userinfo"
+    "msg": "Profilinizde bir takma ad ayarlamalısınız"
   },
   {
     "err": 73,
-    "msg": "Oda bulunamadı",
-    "cmd": "userinfo"
+    "msg": "Oda bulunamadı"
   },
   {
     "err": 74,
-    "msg": "Yeni veri yok",
-    "cmd": "userinfo"
+    "msg": "Yeni veri yok"
   },
   {
     "err": 75,
-    "msg": "Kullanıcı faturalara/manuel faturalara izin vermedi",
-    "cmd": "userinfo"
+    "msg": "Kullanıcı faturalara/manuel faturalara izin vermedi"
   },
   {
     "err": 76,
-    "msg": "Özelliğe erişiminiz yok",
-    "cmd": "userinfo"
+    "msg": "Özelliğe erişiminiz yok"
   },
   {
     "err": 77,
-    "msg": "Bu para birimi şimdiye kadar FSP'de uygulanamaz. Lütfen başka bir para birimi seçin",
-    "cmd": "userinfo"
+    "msg": "Bu para birimi şimdiye kadar FSP'de uygulanamaz. Lütfen başka bir para birimi seçin"
   },
   {"err": 78, "msg": "Kendi promosyon kodu kullanılarak yeni promosyon kodu kaydedilemez"},
   {"err": 79, "msg": "Promo code not found"},
@@ -354,228 +285,184 @@
   {
     "err": 300,
     "msg": "Ağ sorunları. İnternet bağlantısını kontrol edin",
-    "cmd": "userinfo",
     "note": "300-399 connection errors"
   },
   {
     "err": 301,
-    "msg": "LAC: Yanıt yok",
-    "cmd": "sysinfo"
+    "msg": "LAC: Yanıt yok"
   },
   {
     "err": 302,
-    "msg": "Yanıt zaman aşımı. Lütfen birkaç dakika sonra tekrar deneyin",
-    "cmd": "sysinfo"
+    "msg": "Yanıt zaman aşımı. Lütfen birkaç dakika sonra tekrar deneyin"
   },
   {
     "err": 303,
-    "msg": "E -posta Sorunları",
-    "cmd": "sysinfo"
+    "msg": "E -posta Sorunları"
   },
   {
     "err": 400,
     "msg": "DB Hatası: Verileri kontrol edin",
-    "cmd": "userinfo",
     "note": "400-599 database errors"
   },
   {
     "err": 401,
-    "msg": "DB Bağlantı Hatası",
-    "cmd": "sysinfo"
+    "msg": "DB Bağlantı Hatası"
   },
   {
     "err": 402,
-    "msg": "Yerel DB bağlantı hatası",
-    "cmd": "sysinfo"
+    "msg": "Yerel DB bağlantı hatası"
   },
   {
     "err": 403,
-    "msg": "DB prosedürü",
-    "cmd": "sysinfo"
+    "msg": "DB prosedürü"
   },
   {
     "err": 404,
-    "msg": "Veriler kaydedilmedi",
-    "cmd": "userinfo"
+    "msg": "Veriler kaydedilmedi"
   },
   {
     "err": 405,
-    "msg": "Komut başarısız oldu",
-    "cmd": "sysinfo"
+    "msg": "Komut başarısız oldu"
   },
   {
     "err": 406,
-    "msg": "Verilen ValueBase yanlış",
-    "cmd": "sysinfo"
+    "msg": "Verilen ValueBase yanlış"
   },
   {
     "err": 500,
     "msg": "iol-Connector: 'At' elde edilmez",
-    "cmd": "sysinfo",
     "note": "500-599: iol-connector errors"
   },
   {
     "err": 501,
-    "msg": "Konu Aboneliği Başarısız",
-    "cmd": "sysinfo"
+    "msg": "Konu Aboneliği Başarısız"
   },
   {
     "err": 502,
-    "msg": "Başarısızlık Gönderme",
-    "cmd": "sysinfo"
+    "msg": "Başarısızlık Gönderme"
   },
   {"err": 503, "msg": "{{appName}} iol app is required in the device for this feature but it is not installed. Please, install it and try again"},
   {
     "err": 516,
-    "msg": "Konu mevcut değil",
-    "cmd": "sysinfo"
+    "msg": "Konu mevcut değil"
   },
   {
     "err": 517,
-    "msg": "At durdu",
-    "cmd": "sysinfo"
+    "msg": "At durdu"
   },
   {
     "err": 518,
-    "msg": "At kayboldu",
-    "cmd": "sysinfo"
+    "msg": "At kayboldu"
   },
   {
     "err": 519,
-    "msg": "Oturum kayboldu",
-    "cmd": "sysinfo"
+    "msg": "Oturum kayboldu"
   },
   {
     "err": 520,
-    "msg": "Oturum bir sorun döndürdü",
-    "cmd": "sysinfo"
+    "msg": "Oturum bir sorun döndürdü"
   },
   {"err": 521, "msg": "iolService has not been launched on this device or it doesn't response"},
   {
     "err": 600,
     "msg": "şifreleme/şifresini yanlış",
-    "cmd": "userinfo",
     "note": "600-799 code errors"
   },
   {
     "err": 601,
-    "msg": "Yöntem adı bulunamadı",
-    "cmd": "userinfo"
+    "msg": "Yöntem adı bulunamadı"
   },
   {
     "err": 602,
-    "msg": "Captcha üretim hatası",
-    "cmd": "userinfo"
+    "msg": "Captcha üretim hatası"
   },
   {
     "err": 603,
-    "msg": "Alınan veriler doğru iol-Protocol'de değil",
-    "cmd": "userinfo"
+    "msg": "Alınan veriler doğru iol-Protocol'de değil"
   },
   {
     "err": 604,
-    "msg": "Yeterince geçerli parametre yok",
-    "cmd": "userinfo"
+    "msg": "Yeterince geçerli parametre yok"
   },
   {
     "err": 605,
-    "msg": "Geçersiz veri değerleri",
-    "cmd": "userinfo"
+    "msg": "Geçersiz veri değerleri"
   },
   {
     "err": 606,
-    "msg": "Dosya Yükleme Hatası. Boyutu veya formatı kontrol edin.",
-    "cmd": "userinfo"
+    "msg": "Dosya Yükleme Hatası. Boyutu veya formatı kontrol edin."
   },
   {
     "err": 607,
-    "msg": "Tanımsız komut",
-    "cmd": "userinfo"
+    "msg": "Tanımsız komut"
   },
   {
     "err": 608,
-    "msg": "Üzengi bu komutu tanıyamadı",
-    "cmd": "sysinfo"
+    "msg": "Üzengi bu komutu tanıyamadı"
   },
   {
     "err": 609,
-    "msg": "Inreqpool'da orijinal istek oku bulamıyorum",
-    "cmd": "sysinfo"
+    "msg": "Inreqpool'da orijinal istek oku bulamıyorum"
   },
   {
     "err": 610,
-    "msg": "ACTNAME/SPNAME Tapınakta bulunamadı",
-    "cmd": "sysinfo"
+    "msg": "ACTNAME/SPNAME Tapınakta bulunamadı"
   },
   {
     "err": 611,
-    "msg": "JSON Ayrıştırma Hatası",
-    "cmd": "sysinfo"
+    "msg": "JSON Ayrıştırma Hatası"
   },
   {
     "err": 612,
-    "msg": "Kod hatası",
-    "cmd": "sysinfo"
+    "msg": "Kod hatası"
   },
   {
     "err": 613,
-    "msg": "iol-Connect lib intited değil",
-    "cmd": "sysinfo"
+    "msg": "iol-Connect lib intited değil"
   },
   {
     "err": 614,
-    "msg": "Yeni Konu Oluşturma Hatası",
-    "cmd": "sysinfo"
+    "msg": "Yeni Konu Oluşturma Hatası"
   },
   {
     "err": 615,
-    "msg": "Gönderme hatası",
-    "cmd": "sysinfo"
+    "msg": "Gönderme hatası"
   },
   {
     "err": 616,
-    "msg": "HTTP (S) Talep Arızası",
-    "cmd": "sysinfo"
+    "msg": "HTTP (S) Talep Arızası"
   },
   {
     "err": 618,
-    "msg": "Sipariş göz ardı edildi/reddedildi",
-    "cmd": "userinfo"
+    "msg": "Sipariş göz ardı edildi/reddedildi"
   },
   {
     "err": 619,
-    "msg": "Parametre coroutine olmalı",
-    "cmd": "sysinfo"
+    "msg": "Parametre coroutine olmalı"
   },
   {
     "err": 800,
     "msg": "FSP'ler yok",
-    "cmd": "userinfo",
     "note": "800-999 FSP errors"
   },
   {
     "err": 801,
-    "msg": "FSP desteklenmiyor",
-    "cmd": "userinfo"
+    "msg": "FSP desteklenmiyor"
   },
   {
     "err": 802,
-    "msg": "FSP hata ile cevap verdi",
-    "cmd": "userinfo"
+    "msg": "FSP hata ile cevap verdi"
   },
   {
     "err": 803,
-    "msg": "FSP: Alıntı Başarısız Olmak",
-    "cmd": "userinfo"
+    "msg": "FSP: Alıntı Başarısız Olmak"
   },
   {
     "err": 804,
-    "msg": "FSP: Dönüştürme Başarısızlığı",
-    "cmd": "userinfo"
+    "msg": "FSP: Dönüştürme Başarısızlığı"
   },
   {
     "err": 805,
-    "msg": "FSP: Aktarma Başarısızlığı",
-    "cmd": "userinfo"
+    "msg": "FSP: Aktarma Başarısızlığı"
   }
 ]
